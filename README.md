@@ -1,4 +1,17 @@
 ### Hi there 👋
+Welcome to my GitHub!
+
+Whats going on in my life?
+  - I'm currently working as a Barista in NYC!
+  - Leaning 3js at the moment to bolster my front end skills
+  - Fun Fact!
+      - I was actually on NY Magazine 😎
+  - Reach me!
+      - Instagram: meekaljeung
+      - LinkedIn: Michael Jeung
+      - Email: Michaelj229@gmail.com
+
+Looking forward to learning more as a software engineer!
 
 <!--
 **mdbj12/mdbj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
