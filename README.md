@@ -10,6 +10,10 @@ Whats going on in my life?
       - Instagram: https://www.instagram.com/meekaljeung/
       - LinkedIn: www.linkedin.com/in/michael-d-jeung
       - Email: Michaelj229@gmail.com
+  - Projects!
+      - Personal Website: https://michael-jeung.vercel.app/
+      - Currently still developing my mobile app, `Fog of Maps!`
+          - Check out the repo on my pinned list!
 
 Looking forward to learning more as a software engineer!
 
