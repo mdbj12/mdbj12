@@ -7,7 +7,7 @@ Whats going on in my life?
   - Fun Fact!
       - I was actually on NY Magazine 😎
   - Reach me!
-      - Instagram: [meekaljeung](www.instagram.com/meekaljeung)
+      - Instagram: https://www.instagram.com/meekaljeung/
       - LinkedIn: www.linkedin.com/in/michael-d-jeung
       - Email: Michaelj229@gmail.com
 
