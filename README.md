@@ -6,21 +6,21 @@ Whats going on in my life?
   - Fun Fact!
       - I was actually on NY Magazine (12/05/22) 😎
 
-Reach me!
-  - Instagram: https://www.instagram.com/meekaljeung/
-  - LinkedIn: www.linkedin.com/in/michael-d-jeung
-  - Email: Michaelj229@gmail.com
-
-Projects!
-  - Personal Website: https://michael-jeung.vercel.app/
-  - Currently still developing my mobile app, `Fog of Maps!`
-    - Check out the repo on my pinned list!
-
 What am I learning?
   - Taking an online 3js class by Bruno Simon (https://threejs-journey.com/)
   - Leaning a couple things on Udemy!
       - MERN Stack with Ghulam Abbas
       - The Complete 2023 Web Development Bootcamp with Dr. Angela Yu
+   
+Projects!
+  - Personal Website: https://michael-jeung.vercel.app/
+  - Currently still developing my mobile app, `Fog of Maps!`
+    - Check out the repo on my pinned list!
+   
+Reach me!
+  - Instagram: https://www.instagram.com/meekaljeung/
+  - LinkedIn: www.linkedin.com/in/michael-d-jeung
+  - Email: Michaelj229@gmail.com
 
 Looking forward to learning more as a software engineer!
 
