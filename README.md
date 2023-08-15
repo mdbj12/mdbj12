@@ -7,8 +7,8 @@ Whats going on in my life?
   - Fun Fact!
       - I was actually on NY Magazine 😎
   - Reach me!
-      - Instagram: meekaljeung
-      - LinkedIn: Michael Jeung
+      - Instagram: [meekaljeung](www.instagram.com/meekaljeung)
+      - LinkedIn: www.linkedin.com/in/michael-d-jeung
       - Email: Michaelj229@gmail.com
 
 Looking forward to learning more as a software engineer!
