@@ -6,7 +6,6 @@ Whats going on in my life?
   - Fun Facts!
       - I was actually on NY Magazine (12/05/22) 😎
       - Avid player of Volleyball 🏐 and Basketball 🏀 as well as Cycling 🚲
-      - 
 
 What am I learning?
   - Taking an online 3js class by Bruno Simon (https://threejs-journey.com/)
@@ -19,8 +18,9 @@ Projects!
   - Currently still developing my mobile app, `Fog of Maps!`
     - Check out the repo on my pinned list!
    
-Music!
+Extra Links!
   - https://open.spotify.com/user/michaelj229?si=f6b4cb0fe00a4608
+  - https://medium.com/@michaelj229
    
 Reach me!
   - Instagram: https://www.instagram.com/meekaljeung/
