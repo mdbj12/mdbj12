@@ -5,7 +5,7 @@ Whats going on in my life?
   - I'm currently working as a Barista in NYC!
   - Fun Facts!
       - I was actually on NY Magazine (12/05/22) 😎
-      - Avid player of Volleyball🏐 and Basketball🏀 as well as Cycling🚲
+      - Avid player of Volleyball 🏐 and Basketball 🏀 as well as Cycling 🚲
       - 
 
 What am I learning?
