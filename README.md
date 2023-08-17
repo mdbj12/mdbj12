@@ -3,8 +3,10 @@ Welcome to my GitHub!
 
 Whats going on in my life?
   - I'm currently working as a Barista in NYC!
-  - Fun Fact!
+  - Fun Facts!
       - I was actually on NY Magazine (12/05/22) 😎
+      - Avid player of Volleyball🏐 and Basketball🏀 as well as Cycling🚲
+      - 
 
 What am I learning?
   - Taking an online 3js class by Bruno Simon (https://threejs-journey.com/)
