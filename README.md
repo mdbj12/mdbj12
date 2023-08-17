@@ -17,6 +17,9 @@ Projects!
   - Currently still developing my mobile app, `Fog of Maps!`
     - Check out the repo on my pinned list!
    
+Music!
+  - https://open.spotify.com/user/michaelj229?si=f6b4cb0fe00a4608
+   
 Reach me!
   - Instagram: https://www.instagram.com/meekaljeung/
   - LinkedIn: www.linkedin.com/in/michael-d-jeung
