@@ -15,12 +15,15 @@ What am I learning?
    
 Projects!
   - Personal Website: https://michael-jeung.vercel.app/
-  - Currently still developing my mobile app, `Fog of Maps!`
-    - Check out the repo on my pinned list!
+  - Currently still developing:
+    - My mobile app, `Fog of Maps!`
+    - A blogging app, `Blog`
+  - Check out the repos on my pinned list!
    
 Extra Links!
   - https://open.spotify.com/user/michaelj229?si=f6b4cb0fe00a4608
   - https://medium.com/@michaelj229
+  - Personal Website: https://michael-jeung.vercel.app/
    
 Reach me!
   - Instagram: https://www.instagram.com/meekaljeung/
@@ -28,18 +31,3 @@ Reach me!
   - Email: Michaelj229@gmail.com
 
 Looking forward to learning more as a software engineer!
-
-<!--
-**mdbj12/mdbj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
